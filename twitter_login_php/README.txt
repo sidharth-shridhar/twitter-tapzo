@@ -1,0 +1,1 @@
+This project fetches twitter user information about their following who shared there links on their twitter feed. This project uses twitter API.
